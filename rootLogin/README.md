@@ -12,7 +12,7 @@ wget -N https://cdn.jsdelivr.net/gh/Misaka-blog/rootLogin@master/root.sh && chmo
 ```
 国外
 ```shell
-bash <(curl -L -s https://raw.githubusercontent.com/King-stark/rootLogin/master/root.sh)
+bash <(curl -L -s https://raw.githubusercontent.com/King-stark/Proxies/main/rootLogin/root.sh)
 ```
 
 ## 相关教程
