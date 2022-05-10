@@ -1,5 +1,7 @@
 
 # oracle_arm
+> ***备份自此[仓库](https://github.com/n0thing2speak/oracle_arm)***
+
 oracle arm registration script. 乌龟壳刷ARM脚本
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=oracle_arm)
 
