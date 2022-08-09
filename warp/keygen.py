@@ -1,6 +1,11 @@
 import random
 import httpx
 
+# The main content is referenced from the following link：
+# (https://github.com/f5ociety/unlimitedWARP)
+# (https://github.com/firstapostle/warp.key.gen)
+# The header description is referenced from https://replit.com/@SerdarAD/WarpKeyGen-1?v=1#main.py
+
 print("\n█░█░█ ▄▀█ █▀█ █▀█ ▄█▄\n▀▄▀▄▀ █▀█ █▀▄ █▀▀ ░▀░\n")
 print()
 
